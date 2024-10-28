@@ -934,7 +934,9 @@
 .footer {
     background: var(--bs-dark);
 }
-
+.logo{
+    max-width: 150px;
+}
 .footer .footer-item {
     display: flex;
     flex-direction: column;
